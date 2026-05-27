@@ -212,3 +212,32 @@ The emerging hypothesis is increasingly clear:
     Fig-005-FUNCTION-TUNNEL-INTELLIGENCE
     Fig-006-LLM-AND-DBM-SI
     Fig-007-FRONTIER-ROADMAP
+    
+
+
+---
+
+## Citation
+
+    @software{tan_fti_2026,
+      author = {Tan, Sizhe},
+      title = {DBM-SI / ASI / FTI / PDS / CG Review and Outlook: A Structural Intelligence Tech Stack, Grand Map, and Future Direction for Autonomous Systems},
+      year = {2026},
+      version = {1.0.0},
+      url = {https://github.com/sizhet/DBM-SI_ASI_FTI_PDS_CG-Review-and-Outlook-A-Structural-Intelligence-Tech-Stack-and-Grand-Map},
+      doi = {TBD}
+    }
+
+## License
+
+Apache-2.0
+
+---
+
+## 📚 DBM-SI Series Navigation
+
+See:\
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Common-Abbreviations-and-Terminology.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Common-Abbreviations-and-Terminology.md)
+
+[./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md](./docs/DBM-SI-Series-of-gitHub-Repositories/DBM-SI-Series-of-gitHub-Repositories.md)
+
