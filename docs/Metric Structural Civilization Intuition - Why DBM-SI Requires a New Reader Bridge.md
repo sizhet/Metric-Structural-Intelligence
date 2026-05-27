@@ -7,24 +7,24 @@ Many readers may find DBM-SI, ASI, FTI, PDS, and CGCCC difficult at first becaus
 
 Most readers are trained to think in terms of:
 
-prediction,
-probability,
-symbols,
-neural scaling,
-or optimization.
+- prediction,
+- probability,
+- symbols,
+- neural scaling,
+- or optimization.
 
 DBM-SI asks them to think in terms of:
 
-distance,
-feasibility,
-structural preservation,
-trajectory,
-tunnel,
-neighborhood,
-relaxation,
-and stable transformation.
+- distance,
+- feasibility,
+- structural preservation,
+- trajectory,
+- tunnel,
+- neighborhood,
+- relaxation,
+- and stable transformation.
 
-This is not merely a terminology gap.
+This is not merely a terminology gap.\
 It is an intuition gap.
 
 ## 1. Why Metric Space Matters
@@ -33,20 +33,20 @@ A metric space is not just an abstract mathematical object.
 
 For structural intelligence, a metric space is a way to ask:
 
-What is close?
-What is far?
-What can transform into what?
-What is stable?
-What is risky?
-What path is feasible?
-What structure must be preserved?
+- What is close?
+- What is far?
+- What can transform into what?
+- What is stable?
+- What is risky?
+- What path is feasible?
+- What structure must be preserved?
 
 Once intelligence is viewed this way, many AI problems change shape.
 
-Code generation becomes structural gap-bridging.
-Decision-making becomes policy-guided metric navigation.
-Learning becomes CCC extraction.
-Evolution becomes tunnel-preserved transformation.
+Code generation becomes structural gap-bridging.\
+Decision-making becomes policy-guided metric navigation.\
+Learning becomes CCC extraction.\
+Evolution becomes tunnel-preserved transformation.\
 World models become trajectory-stabilizing structural fields.
 
 ## 2. Why Readers Get Lost
@@ -61,32 +61,32 @@ If they use only neural scaling intuition, policy separation may look unnecessar
 
 But in DBM-SI:
 
-CCC is a structural invariant.
-Metric distance is a feasibility signal.
-Policy is a control plane.
-Tunnel is a constrained evolution region.
-Go-around is intelligent metric navigation.
-Elastic relaxation is controlled structural adaptation.
+- CCC is a structural invariant.
+- Metric distance is a feasibility signal.
+- Policy is a control plane.
+- Tunnel is a constrained evolution region.
+- Go-around is intelligent metric navigation.
+- Elastic relaxation is controlled structural adaptation.
 
-Without metric intuition, these ideas look abstract.
+Without metric intuition, these ideas look abstract.\
 With metric intuition, they become natural.
 
 ## 3. The Minimum Entry Intuition
 
 The minimum entry point is simple:
 
-Intelligence is not only about producing answers.
-Intelligence is also about moving through a space of possibilities without losing structural identity.
+> Intelligence is not only about producing answers.\
+> Intelligence is also about moving through a space of possibilities without losing structural identity.
 
 This means an intelligent system must know:
 
-where it is,
-what is near,
-what is too far,
-what must not change,
-what may change,
-what path remains feasible,
-and what policy governs the movement.
+- where it is,
+- what is near,
+- what is too far,
+- what must not change,
+- what may change,
+- what path remains feasible,
+- and what policy governs the movement.
 
 This is the beginning of Metric Structural Civilization Intuition.
 
@@ -98,15 +98,15 @@ Distance is not only geometry.
 
 In DBM-SI, distance may represent:
 
-semantic difference,
-structural mismatch,
-behavioral deviation,
-policy violation,
-risk,
-instability,
-or transformation cost.
+- semantic difference,
+- structural mismatch,
+- behavioral deviation,
+- policy violation,
+- risk,
+- instability,
+- or transformation cost.
 
-A nearby point is not merely nearby.
+A nearby point is not merely nearby.\
 It may be easier to transform into, safer to choose, or more compatible with the current structure.
 
 ### B — Neighborhoods Are Intelligence Fields
@@ -115,12 +115,12 @@ A system does not operate in isolation.
 
 It operates inside neighborhoods:
 
-nearby examples,
-nearby policies,
-nearby code structures,
-nearby trajectories,
-nearby concepts,
-nearby risks.
+- nearby examples,
+- nearby policies,
+- nearby code structures,
+- nearby trajectories,
+- nearby concepts,
+- nearby risks.
 
 A neighborhood tells the system what is plausible, stable, reusable, or dangerous.
 
@@ -130,11 +130,11 @@ A CCC is the part of a structure that must remain recognizable through change.
 
 Examples:
 
-the motif of a melody,
-the role of a function in a program,
-the decision logic of a policy,
-the behavioral pattern of a trajectory,
-the identity of a biological or social process.
+- the motif of a melody,
+- the role of a function in a program,
+- the decision logic of a policy,
+- the behavioral pattern of a trajectory,
+- the identity of a biological or social process.
 
 CCC allows systems to change without collapsing into randomness.
 
@@ -144,47 +144,47 @@ A tunnel is a region of possible transformation where the system can evolve whil
 
 Outside the tunnel, change may still happen, but it may become:
 
-unstable,
-unsafe,
-unrecognizable,
-or destructive.
+- unstable,
+- unsafe,
+- unrecognizable,
+- or destructive.
 
 FTI generalizes this idea:
 
-Stable intelligence evolves inside feasible function tunnels.
+> Stable intelligence evolves inside feasible function tunnels.
 
 ### E — Policy Separates What Can Be Done from What Should Be Done
 
-Metric distance tells us what is possible.
+Metric distance tells us what is possible.\
 Policy tells us what is allowed, preferred, safe, or valuable.
 
 This is why PDS matters.
 
-A future AI system should not hide all policy inside trained parameters.
+A future AI system should not hide all policy inside trained parameters.\
 Policy should be explicit, inspectable, and adjustable.
 
 ## 5. Why This Is a Civilization-Level Intuition
 
 Modern civilization increasingly depends on systems that must operate inside complex possibility spaces:
 
-AI coding,
-autonomous agents,
-robotics,
-finance,
-medicine,
-logistics,
-governance,
-science,
-education,
-infrastructure.
+- AI coding,
+- autonomous agents,
+- robotics,
+- finance,
+- medicine,
+- logistics,
+- governance,
+- science,
+- education,
+- infrastructure.
 
 In all of these domains, the key question is often not:
 
-What is the next output?
+> What is the next output?
 
 but:
 
-What stable path can we take through a dangerous and high-dimensional space?
+> What stable path can we take through a dangerous and high-dimensional space?
 
 That is a metric structural question.
 
@@ -194,19 +194,19 @@ LLMs are powerful because they compress and reconstruct language-scale patterns.
 
 But LLMs do not naturally expose:
 
-CCCs,
-policy boundaries,
-structural distances,
-feasible tunnels,
-or audit-ready decision surfaces.
+- CCCs,
+- policy boundaries,
+- structural distances,
+- feasible tunnels,
+- or audit-ready decision surfaces.
 
 DBM-SI can help LLMs by providing:
 
-explicit CCC extraction,
-structural scoring,
-policy separation,
-trajectory validation,
-and metric-space governance.
+- explicit CCC extraction,
+- structural scoring,
+- policy separation,
+- trajectory validation,
+- and metric-space governance.
 
 The goal is not to replace LLMs.
 
@@ -218,24 +218,24 @@ AI coding is a clear example.
 
 A simple LLM view says:
 
-Generate code.
+> Generate code.
 
 A DBM-SI view says:
 
-Grow a valid calling graph under structural, semantic, and policy constraints.
+> Grow a valid calling graph under structural, semantic, and policy constraints.
 
 This changes everything.
 
 The system must ask:
 
-What function is missing?
-What existing structure must be preserved?
-What gap must be bridged?
-What CCC must remain stable?
-What local movement is enough?
-When should we zoom in?
-When should we go around?
-When should we reject or rewrite?
+- What function is missing?
+- What existing structure must be preserved?
+- What gap must be bridged?
+- What CCC must remain stable?
+- What local movement is enough?
+- When should we zoom in?
+- When should we go around?
+- When should we reject or rewrite?
 
 This is metric structural intelligence in action.
 
@@ -247,13 +247,13 @@ It must also help readers build the missing intuition.
 
 A good reader path is:
 
-Start from distance.
-Move to neighborhood.
-Understand CCC.
-Understand tunnel.
-Understand policy.
-Understand structural navigation.
-Then understand DBM-SI, PDS, CGCCC, ASI, and FTI.
+1. Start from distance.
+2. Move to neighborhood.
+3. Understand CCC.
+4. Understand tunnel.
+5. Understand policy.
+6. Understand structural navigation.
+7. Then understand DBM-SI, PDS, CGCCC, ASI, and FTI.
 
 Without this bridge, readers may see only unfamiliar terminology.
 
@@ -265,12 +265,12 @@ Metric Structural Civilization Intuition is the ability to understand intelligen
 
 It teaches us that:
 
-distance matters,
-structure matters,
-preservation matters,
-policy matters,
-trajectories matter,
-and feasible evolution matters.
+- distance matters,
+- structure matters,
+- preservation matters,
+- policy matters,
+- trajectories matter,
+- and feasible evolution matters.
 
 This intuition may become essential for the next stage of AI, autonomous systems, and civilization-scale decision intelligence.
 
@@ -278,5 +278,5 @@ The DBM-SI program therefore requires not only algorithms and repositories, but 
 
 In this sense:
 
-Building Metric Structural Civilization Intuition is not a side task.
-It is one of the central missions of DBM-SI.
+> Building Metric Structural Civilization Intuition is not a side task.\
+> It is one of the central missions of DBM-SI.
