@@ -1,30 +1,32 @@
 {
-  "title": "Function-Tunnel Intelligence (FTI): Elastic Structural Runtime Intelligence for Robust Autonomous Systems",
+  "title": "DBM-SI / ASI / FTI / PDS / CG Review and Outlook: A Structural Intelligence Tech Stack and Grand Map",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "This repository presents a unified review and outlook of the DBM-SI structural intelligence ecosystem, including ASI, FTI, PDS, CGCCC, Elastic IR, and related structural-runtime frameworks. The work consolidates foundational algorithms, frontier architectures, and future research directions involving metric-space intelligence, CCC extraction, policy-controlled runtime systems, tunnel-preserved evolution, autonomous coding governance, and structural intelligence systems. The repository proposes that future AI systems may require structural control planes layered above generative models, enabling policy separation, trajectory stabilization, CCC-preserved derivation, and structurally auditable autonomous systems.",
   "creators": [
     {
       "name": "Tan, Sizhe",
       "affiliation": "Independent Researcher"
     }
   ],
-  "description": "Function Tunnel Intelligence (FTI) is a structural intelligence framework investigating tunnel-constrained evolution, trajectory-preserved derivation, and feasible structural transformation. This repository explores how stable evolution may emerge inside CCC-preserved functional tunnels rather than through arbitrary mutation. The project includes canonical FTI architectures, Elastic Structural Runtime concepts, trajectory reasoning frameworks, preservation-aware runtime MVPs, and future directions such as CCC-Preserved Generation (CPG) and Core-CCC-Preserved Analysis (CPA). These directions investigate explicit structural preservation, policy-preserved derivation, and future AI architectures beyond purely probabilistic continuation systems.",
   "keywords": [
-    "Function Tunnel Intelligence",
-    "FTI",
-    "DBM-SI",
     "Structural Intelligence",
-    "CCC-Preserved Generation",
-    "Core-CCC-Preserved Analysis",
-    "Structural Preservation",
-    "Evolution Tunnel",
-    "Trajectory Intelligence",
-    "AI Coding",
-    "CGCCC",
-    "Preservation-Aware Generation",
-    "Policy-Preserved Derivation",
-    "Structural Evolution",
-    "Autonomous Structural Intelligence"
+    "DBM-SI",
+    "Autonomous Structural Intelligence",
+    "Function Tunnel Intelligence",
+    "Policy Decision System",
+    "CCC",
+    "Common Concept Core",
+    "Calling Graph",
+    "AI Coding Governance",
+    "Elastic Trajectory Intelligence",
+    "Metric Space Intelligence",
+    "Tunnel Intelligence",
+    "Structural Governance",
+    "Policy-Controlled AI",
+    "World Models",
+    "Autonomous Coding"
   ],
   "license": "Apache-2.0",
-  "upload_type": "software",
-  "access_right": "open"
+  "language": "eng"
 }
