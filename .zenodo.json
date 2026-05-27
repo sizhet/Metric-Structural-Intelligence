@@ -1,0 +1,30 @@
+{
+  "title": "Function-Tunnel Intelligence (FTI): Elastic Structural Runtime Intelligence for Robust Autonomous Systems",
+  "creators": [
+    {
+      "name": "Tan, Sizhe",
+      "affiliation": "Independent Researcher"
+    }
+  ],
+  "description": "Function Tunnel Intelligence (FTI) is a structural intelligence framework investigating tunnel-constrained evolution, trajectory-preserved derivation, and feasible structural transformation. This repository explores how stable evolution may emerge inside CCC-preserved functional tunnels rather than through arbitrary mutation. The project includes canonical FTI architectures, Elastic Structural Runtime concepts, trajectory reasoning frameworks, preservation-aware runtime MVPs, and future directions such as CCC-Preserved Generation (CPG) and Core-CCC-Preserved Analysis (CPA). These directions investigate explicit structural preservation, policy-preserved derivation, and future AI architectures beyond purely probabilistic continuation systems.",
+  "keywords": [
+    "Function Tunnel Intelligence",
+    "FTI",
+    "DBM-SI",
+    "Structural Intelligence",
+    "CCC-Preserved Generation",
+    "Core-CCC-Preserved Analysis",
+    "Structural Preservation",
+    "Evolution Tunnel",
+    "Trajectory Intelligence",
+    "AI Coding",
+    "CGCCC",
+    "Preservation-Aware Generation",
+    "Policy-Preserved Derivation",
+    "Structural Evolution",
+    "Autonomous Structural Intelligence"
+  ],
+  "license": "Apache-2.0",
+  "upload_type": "software",
+  "access_right": "open"
+}
