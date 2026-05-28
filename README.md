@@ -242,7 +242,7 @@ The emerging hypothesis is increasingly clear:
       title = {DBM-SI / ASI / FTI / PDS / CG Review and Outlook: A Structural Intelligence Tech Stack, Grand Map, and Future Direction for Autonomous Systems},
       year = {2026},
       version = {1.0.0},
-      url = {https://github.com/sizhet/DBM-SI_ASI_FTI_PDS_CG-Review-and-Outlook-A-Structural-Intelligence-Tech-Stack-and-Grand-Map},
+      url = {https://github.com/sizhet/Metric-Structural-Intelligence-Grand-Map},
       doi = {TBD}
     }
 
