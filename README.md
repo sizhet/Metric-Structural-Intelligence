@@ -40,6 +40,8 @@ The central thesis emerging from DBM-SI is:
 
 ### Foundation Stack
 
+![./docs/figures/Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE.png](./docs/figures/Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE.png)
+
 The DBM-SI foundation stack includes:
 
 - Differential Tree
@@ -57,6 +59,8 @@ The DBM-SI foundation stack includes:
 These systems form the structural substrate for higher-level autonomous intelligence systems.
 
 ## Three Frontier Armies
+
+![./docs/figures/Fig-001-DBM-SI-GRAND-LANDSCAPE.png](./docs/figures/Fig-001-DBM-SI-GRAND-LANDSCAPE.png)
 
 ### 1. Calling Graph / CGCCC Frontier
 
@@ -88,6 +92,8 @@ where:
 - D = Decision
 - P = Policy
 - M = Runtime Execution and Adaptation
+
+![./docs/figures/Fig-003-PDS-CONTROL-PLANE.png](./docs/figures/Fig-003-PDS-CONTROL-PLANE.png)
 
 Extensions include:
 
@@ -158,6 +164,8 @@ DBM-SI contributes:
 - Autonomous structural runtime systems
 - Structural world models
 - Civilization-scale trajectory intelligence
+
+![./docs/figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png](./docs/figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png)
 
 ## Canonical Figures
 

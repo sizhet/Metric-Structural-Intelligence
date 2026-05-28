@@ -85,6 +85,8 @@ The DBM-SI stack is built upon accumulated foundational algorithms and runtime s
 These technologies were not designed independently.\
 They gradually converged into a mutually reinforcing ecosystem.
 
+![./figures/Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE.png](./figures/Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE.png)
+
 ### 2.1 Differential Tree / ASB / ASB-ML / Clustering
 
 Differential Trees and ASB-style adaptive segmentation systems provide the foundation for variable-granularity structural partitioning.
@@ -202,6 +204,8 @@ where:
 
 This formulation gradually became one of the core control-plane abstractions in DBM-SI.
 
+![./figures/Fig-003-PDS-CONTROL-PLANE.png](./figures/Fig-003-PDS-CONTROL-PLANE.png)
+
 ### 2.7 Event Language Model (ELM)
 
 ELM investigates intelligence through:
@@ -245,6 +249,8 @@ Over time, DBM-SI development converged around three major frontier directions.
 
 These “front armies” represent the most active and strategically important research fronts.
 
+![./figures/Fig-001-DBM-SI-GRAND-LANDSCAPE.png](./figures/Fig-001-DBM-SI-GRAND-LANDSCAPE.png)
+
 ### 3A. Calling Graph / CGCCC Frontier
 
 This frontier investigates:
@@ -274,6 +280,8 @@ This represents a transition from:
 - code generation,\
 toward:
 - structural growth simulation.
+
+![./figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png](./figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png)
 
 ### 3B. Policy Decision System (PDS) Frontier
 
