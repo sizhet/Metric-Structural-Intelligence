@@ -214,12 +214,12 @@ The emerging hypothesis is increasingly clear:
 ## Repository Structure
    docs/
     ├── START-HERE.md  
-    ├── Metric-Structural-Intelligence-Grand-Map.md
-    ├── Metric-Structural-Intelligence-Grand-Map.pdf
-    ├── From Metric Distance to Structural Intelligence.md
-    ├── From Metric Distance to Structural Intelligence.pdf
-    ├── Metric Structural Civilization Intuition.md
-    ├── Metric Structural Civilization Intuition.pdf
+    ├── 01 - Metric Structural Intelligence Grand Map.md
+    ├── 01 - Metric Structural Intelligence Grand Map.pdf
+    ├── 02 - Metric Structural Civilization Intuition.md
+    ├── 02 - Metric Structural Civilization Intuition.pdf
+    ├── 03 - From Metric Distance to Structural Intelligence.md
+    ├── 03 - From Metric Distance to Structural Intelligence.pdf
     ├── Glossary.md
     ├── figures/
     └── DBM-SI-Series-of-gitHub-Repositories/
