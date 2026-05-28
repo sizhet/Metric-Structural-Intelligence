@@ -1,5 +1,12 @@
-# DBM-SI / ASI / FTI / PDS / CG Review and Outlook
-### A Structural Intelligence Tech Stack, Grand Map, and Future Direction for Autonomous Systems
+# Metric Structural Intelligence
+
+## A Reader’s Gateway to Structural AI, Function Tunnels, Policy Control, and Calling Graph Intelligence
+
+> Intelligence is not merely prediction.
+> Intelligence is structural navigation inside feasible possibility spaces.
+
+This repository is a reader-oriented gateway into a structural view of intelligence:
+distance, neighborhood, preservation, tunnel, policy, trajectory, and autonomous structural growth.
 
 ## DBM-SI Grand Map
 
@@ -28,13 +35,6 @@ Rather than treating intelligence as purely statistical prediction or parameter 
 - and autonomous structural growth.
 
 The project consolidates years of accumulated algorithms, runtime systems, architectural abstractions, and AI governance research into a single structural intelligence landscape.
-
-## Core Thesis
-
-The central thesis emerging from DBM-SI is:
-
-> Intelligence is not merely prediction.\
-> Intelligence is structural navigation inside feasible evolution tunnels under policy and stability constraints.
 
 ## Structural Intelligence Landscape
 
