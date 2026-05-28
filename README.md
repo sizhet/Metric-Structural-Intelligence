@@ -214,8 +214,8 @@ The emerging hypothesis is increasingly clear:
 ## Repository Structure
    docs/
     ├── START-HERE.md  
-    ├── DBM-SI-Grand-Map.md
-    ├── DBM-SI-Grand-Map.pdf
+    ├── Metric-Structural-Intelligence-Grand-Map.md
+    ├── Metric-Structural-Intelligence-Grand-Map.pdf
     ├── From Metric Distance to Structural Intelligence.md
     ├── From Metric Distance to Structural Intelligence.pdf
     ├── Metric Structural Civilization Intuition.md

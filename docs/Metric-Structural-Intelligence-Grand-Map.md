@@ -1,5 +1,5 @@
 # Metric-Structural-Intelligence-Grand-Map
-## of Structural Intelligence Tech Stack, Grand Map, and Future Direction for Autonomous Systems
+## A Reader’s Gateway to Structural AI, Function Tunnels, Policy Control, and Calling Graph Intelligence
 
 ## Abstract
 
