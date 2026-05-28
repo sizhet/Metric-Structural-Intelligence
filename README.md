@@ -118,6 +118,8 @@ FTI proposes that stable evolution occurs through:
 - elastic adaptation,
 - and policy-stabilized trajectories.
 
+![./docs/figures/Fig-005-FUNCTION-TUNNEL-INTELLIGENCE.png](./docs/figures/Fig-005-FUNCTION-TUNNEL-INTELLIGENCE.png)
+
 This direction extends naturally into:
 
 - biology,
@@ -127,6 +129,8 @@ This direction extends naturally into:
 - and autonomous AI systems.
 
 ## Relationship with LLMs and World Models
+
+![./docs/figures/Fig-006-LLM-AND-DBM-SI.png](./docs/figures/Fig-006-LLM-AND-DBM-SI.png)
 
 DBM-SI is not anti-LLM.
 
@@ -166,6 +170,12 @@ DBM-SI contributes:
 - Civilization-scale trajectory intelligence
 
 ![./docs/figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png](./docs/figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png)
+
+---
+
+![./docs/figures/Fig-007-FRONTIER-ROADMAP.png](./docs/figures/Fig-007-FRONTIER-ROADMAP.png)
+
+---
 
 ## Canonical Figures
 

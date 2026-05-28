@@ -281,8 +281,6 @@ This represents a transition from:
 toward:
 - structural growth simulation.
 
-![./figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png](./figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png)
-
 ### 3B. Policy Decision System (PDS) Frontier
 
 PDS investigates intelligence as a policy-controlled structural runtime.
@@ -329,6 +327,8 @@ FTI proposes that many stable intelligent systems evolve not through arbitrary m
 - CCC-preserved derivation,
 - and policy-stabilized feasible trajectories.
 
+![./figures/Fig-005-FUNCTION-TUNNEL-INTELLIGENCE.png](./figures/Fig-005-FUNCTION-TUNNEL-INTELLIGENCE.png)
+
 This direction extends naturally from software systems toward:
 
 - biology,
@@ -344,6 +344,8 @@ DBM-SI does not position itself against LLMs.
 In fact, DBM-SI itself emerged partly through human–LLM collaborative exploration.
 
 This is itself an important observation.
+
+![./figures/Fig-006-LLM-AND-DBM-SI.png](./figures/Fig-006-LLM-AND-DBM-SI.png)
 
 ### 4.1 LLM Scaling Works — But with Diminishing Structural Return
 
@@ -406,6 +408,8 @@ In this sense, FTI and Elastic IR may help explain and enhance the deeper mechan
 
 ## 5. Next Frontiers
 
+![./figures/Fig-007-FRONTIER-ROADMAP.png](./figures/Fig-007-FRONTIER-ROADMAP.png)
+
 Several major frontier directions now emerge.
 
 ### 5.1 CCC-Aware Generative Systems
@@ -440,6 +444,8 @@ This is likely essential for:
 - runtime adaptation,
 - recursive software evolution,
 - and large-scale structural synthesis.
+
+![./figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png](./figures/Fig-004-CALLING-GRAPH-GAP-BRIDGING.png)
 
 Human and biological systems already appear to perform such processes naturally through:
 
