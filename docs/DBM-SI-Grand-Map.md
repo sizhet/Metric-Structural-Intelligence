@@ -1,5 +1,5 @@
-# DBM-SI / ASI / FTI / PDS / CG Review and Outlook
-## A Structural Intelligence Tech Stack, Grand Map, and Future Direction for Autonomous Systems
+# Metric-Structural-Intelligence-Grand-Map
+## of Structural Intelligence Tech Stack, Grand Map, and Future Direction for Autonomous Systems
 
 ## Abstract
 
