@@ -121,6 +121,8 @@ This became one of the foundations of DBM-SI.
 
 One surprising phenomenon was that many apparently independent algorithms emerged naturally from metric-space reasoning.
 
+![./figures/Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE.png](./figures/Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE.png)
+
 For example:
 
 ### Differential Trees and ASB
@@ -186,6 +188,8 @@ Once trajectory preservation becomes central, evolution itself begins to resembl
 This led to FTI:
 
 > stable evolution occurs inside feasible structural tunnels.
+
+![./figures/Fig-001-DBM-SI-GRAND-LANDSCAPE.png](./figures/Fig-001-DBM-SI-GRAND-LANDSCAPE.png)
 
 ## 5. Why This Felt So Surprising
 
@@ -340,6 +344,8 @@ Without this intuition, many DBM-SI concepts appear abstract or mysterious.
 With it, they become natural.
 
 This creates a civilization-level educational bottleneck.
+
+![./figures/Fig-007-FRONTIER-ROADMAP.png](./figures/Fig-007-FRONTIER-ROADMAP.png)
 
 ## 10. The Reader Bridge
 

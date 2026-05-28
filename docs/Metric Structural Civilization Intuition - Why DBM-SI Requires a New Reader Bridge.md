@@ -27,6 +27,8 @@ DBM-SI asks them to think in terms of:
 This is not merely a terminology gap.\
 It is an intuition gap.
 
+![./figures/Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE.png](./figures/Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE.png)
+
 ## 1. Why Metric Space Matters
 
 A metric space is not just an abstract mathematical object.
@@ -163,6 +165,8 @@ This is why PDS matters.
 A future AI system should not hide all policy inside trained parameters.\
 Policy should be explicit, inspectable, and adjustable.
 
+![./figures/Fig-001-DBM-SI-GRAND-LANDSCAPE.png](./figures/Fig-001-DBM-SI-GRAND-LANDSCAPE.png)
+
 ## 5. Why This Is a Civilization-Level Intuition
 
 Modern civilization increasingly depends on systems that must operate inside complex possibility spaces:
@@ -280,3 +284,5 @@ In this sense:
 
 > Building Metric Structural Civilization Intuition is not a side task.\
 > It is one of the central missions of DBM-SI.
+
+![./figures/Fig-007-FRONTIER-ROADMAP.png](./figures/Fig-007-FRONTIER-ROADMAP.png)
