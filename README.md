@@ -150,7 +150,7 @@ LLMs remain highly effective for:
 
 DBM-SI contributes:
 
-- CC extraction,
+- CCC extraction,
 - policy separation,
 - structural routing,
 - metric governance,
@@ -212,15 +212,17 @@ The emerging hypothesis is increasingly clear:
 > Intelligence is the ability to preserve structural identity while navigating feasible evolution tunnels under changing environments, goals, and policies.
 
 ## Repository Structure
-    docs/
-    ├── START-HERE.md
-    ├── grand-map/
-    ├── foundation-stack/
-    ├── frontier-armies/
-    ├── llm-and-world-model/
-    ├── future-frontiers/
+   docs/
+    ├── START-HERE.md  
+    ├── DBM-SI-Grand-Map.md
+    ├── DBM-SI-Grand-Map.pdf
+    ├── From Metric Distance to Structural Intelligence.md
+    ├── From Metric Distance to Structural Intelligence.pdf
+    ├── Metric Structural Civilization Intuition.md
+    ├── Metric Structural Civilization Intuition.pdf
+    ├── Glossary.md
     ├── figures/
-    └── notes/
+    └── DBM-SI-Series-of-gitHub-Repositories/
     
 ## Suggested Figure Pack
     Fig-001-DBM-SI-GRAND-LANDSCAPE
@@ -237,7 +239,7 @@ The emerging hypothesis is increasingly clear:
 
 ## Citation
 
-    @software{tan_fti_2026,
+    @software{tan_structural_intelligence_2026,
       author = {Tan, Sizhe},
       title = {DBM-SI / ASI / FTI / PDS / CG Review and Outlook: A Structural Intelligence Tech Stack, Grand Map, and Future Direction for Autonomous Systems},
       year = {2026},
