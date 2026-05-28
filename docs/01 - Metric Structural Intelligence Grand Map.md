@@ -1,4 +1,4 @@
-# Metric-Structural-Intelligence-Grand-Map
+# Metric-Structural-Intelligence
 ## A Reader’s Gateway to Structural AI, Function Tunnels, Policy Control, and Calling Graph Intelligence
 
 ## Abstract

@@ -1,4 +1,4 @@
-# Metric-Structural-Intelligence-Grand-Map
+# Metric Structural Intelligence
 
 ## A Reader’s Gateway to Structural AI, Function Tunnels, Policy Control, and Calling Graph Intelligence
 
@@ -241,10 +241,10 @@ The emerging hypothesis is increasingly clear:
 
     @software{tan_structural_intelligence_2026,
       author = {Tan, Sizhe},
-      title = {Metric-Structural-Intelligence-Grand-Map: A Reader’s Gateway to Structural AI, Function Tunnels, Policy Control, and Calling Graph Intelligence},
+      title = {Metric-Structural-Intelligence: A Reader’s Gateway to Structural AI, Function Tunnels, Policy Control, and Calling Graph Intelligence},
       year = {2026},
       version = {1.0.0},
-      url = {https://github.com/sizhet/Metric-Structural-Intelligence-Grand-Map},
+      url = {https://github.com/sizhet/Metric-Structural-Intelligence},
       doi = {TBD}
     }
 
