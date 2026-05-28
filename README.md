@@ -2,7 +2,7 @@
 
 ## A Reader’s Gateway to Structural AI, Function Tunnels, Policy Control, and Calling Graph Intelligence
 
-> Intelligence is not merely prediction.
+> Intelligence is not merely prediction.\
 > Intelligence is structural navigation inside feasible possibility spaces.
 
 This repository is a reader-oriented gateway into a structural view of intelligence:
