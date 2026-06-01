@@ -81,5 +81,15 @@
 27. Autonomous Structural Intelligence (ASI) - From Point Prediction to Structure Prediction \
     Repository: https://github.com/sizhet/Autonomous-Structural-Intelligence
     
-28. Function-Tunnel Intelligence (FTI) - Elastic Structural Runtime Intelligence for Robust Autonomous Systems   
+28. Function-Tunnel Intelligence (FTI) - Elastic Structural Runtime Intelligence for Robust Autonomous Systems  
     Repository: https://github.com/sizhet/Function-Tunnel-Intelligence-FTI
+    
+29. Metric Structural Intelligence - A Reader’s Gateway to Structural AI, Function Tunnels, Policy Control, and Calling Graph Intelligence \
+    Repository: https://github.com/sizhet/Metric-Structural-Intelligence
+    
+30. Task-Action Dual Calling Graphs: A Structural Simulator for AI Coding Growth, Bridging, and Compliance \
+    Repository: https://github.com/sizhet/Task-Action-Dual-Calling-Graph
+    
+31. Human-AI Hybrid Civilization and Future Networked Intelligence (FNI) \
+    Repository: https://github.com/sizhet/Human-AI-Hybrid-Civilization-FNI
+
