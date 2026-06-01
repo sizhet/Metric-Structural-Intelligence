@@ -93,3 +93,5 @@
 31. Human-AI Hybrid Civilization and Future Networked Intelligence (FNI) \
     Repository: https://github.com/sizhet/Human-AI-Hybrid-Civilization-FNI
 
+32. Structural Intelligence - Foundations, Frontiers, and Future Directions \
+    Repository: https://github.com/sizhet/Structural-Intelligence
