@@ -245,7 +245,7 @@ The emerging hypothesis is increasingly clear:
       year = {2026},
       version = {1.0.0},
       url = {https://github.com/sizhet/Metric-Structural-Intelligence},
-      doi = {TBD}
+      doi = {10.5281/zenodo.20533047}
     }
 
 ## License
