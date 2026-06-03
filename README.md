@@ -212,17 +212,19 @@ The emerging hypothesis is increasingly clear:
 > Intelligence is the ability to preserve structural identity while navigating feasible evolution tunnels under changing environments, goals, and policies.
 
 ## Repository Structure
-   docs/
-    ├── 01 - Metric Structural Intelligence Grand Map.md
-    ├── 01 - Metric Structural Intelligence Grand Map.pdf
-    ├── 02 - Metric Structural Civilization Intuition.md
-    ├── 02 - Metric Structural Civilization Intuition.pdf
-    ├── 03 - From Metric Distance to Structural Intelligence.md
-    ├── 03 - From Metric Distance to Structural Intelligence.pdf
-    ├── figures/
+
+   docs/ \
+    ├── 01 - Metric Structural Intelligence Grand Map.md\
+    ├── 01 - Metric Structural Intelligence Grand Map.pdf\
+    ├── 02 - Metric Structural Civilization Intuition.md\
+    ├── 02 - Metric Structural Civilization Intuition.pdf\
+    ├── 03 - From Metric Distance to Structural Intelligence.md\
+    ├── 03 - From Metric Distance to Structural Intelligence.pdf\
+    ├── figures/ \
     └── DBM-SI-Series-of-gitHub-Repositories/
     
 ## Suggested Figure Pack
+
     Fig-001-DBM-SI-GRAND-LANDSCAPE
     Fig-002-EVOLUTION-OF-STRUCTURAL-INTELLIGENCE
     Fig-003-PDS-CONTROL-PLANE
